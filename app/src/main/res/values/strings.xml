@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Actividad_04_PMDM</string>
+    <string name="TxtHombre">HOMBRE</string>
+    <string name="txtMujer">MUJER</string>
+
+    <string name="txtAltura">ALTURA</string>
+    <string name="TipoAltura">120cm</string>
+    <string name="ValAltura">120</string>
+
+    <string name="txtPeso">PESO</string>
+    <string name="ValPeso">60</string>
+    <string name="BtnMenos1">-</string>
+    <string name="BtnMas1">+</string>
+
+    <string name="txtEdad">EDAD</string>
+    <string name="ValEdad">30</string>
+    <string name="BtnMenos2">-</string>
+    <string name="BtnMas2">+</string>
+
+    <string name="calcular">CALCULAR</string>
+
+
+    <string name="barratitulo">MENU APP</string>
+
+    <string name="Calc1">Calculadora1</string>
+    <string name="Calc2">Calculadora2</string>
+    <string name="Calc3">Calculadora3</string>
+    <string name="imc">IMC</string>
+    <string name="salir">TERMINAR</string>
+    <string name="volver">VOLVER</string>
+
+
+    STRINGS CALCULADORA ADRI
+
+    STRINGS CALCULADORA JULIO
+
+    <string name="app_name_JULIO">CalculadoraJulio</string>
+    <string name="texto1">%1$s</string>
+    <string name="texto2">%1$s</string>
+    <string name="buttonComa">.</string>
+    <string name="buttonDivision">/</string>
+
+    <string name="resultado">Tu Indice de Masa Corparal es :</string>
+    <string name="imcVolver">Volver</string>
+
+</resources>
